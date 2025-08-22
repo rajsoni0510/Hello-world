@@ -1,0 +1,4 @@
+chore: add .gitignore
+*.class
+*.pyc
+__pycache__/
