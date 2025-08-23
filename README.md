@@ -6,3 +6,4 @@ Hi! I’m learning GitHub & full-stack basics.
 - Build 2 mini projects  
 - Learn Java & Python basics  
 - Contribute to open-source  
+UPDATE readme
